@@ -1,0 +1,254 @@
+[
+{
+  "model": "api.video",
+  "pk": 1,
+  "fields": {
+    "image": "Types_of_People_During_Diwali_1.webp",
+    "url": "https://www.youtube.com/embed/96Te7UM3wOs&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5",
+    "title": "Types of People During Diwali"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 2,
+  "fields": {
+    "image": "Types_of_Chess_Players_2.webp",
+    "url": "https://www.youtube.com/embed/Wa2W-g7EX2k&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=2",
+    "title": "Types of Chess Players"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 3,
+  "fields": {
+    "image": "Types_of_hand_Shakes_3.webp",
+    "url": "https://www.youtube.com/embed/bkhu3sJesFo&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=3",
+    "title": "Types of hand Shakes"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 4,
+  "fields": {
+    "image": "Types_of_Cricket_Players_4.webp",
+    "url": "https://www.youtube.com/embed/eX-fHMBkrYM&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=4",
+    "title": "Types of Cricket Players"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 5,
+  "fields": {
+    "image": "Types_of_Prankters_5.webp",
+    "url": "https://www.youtube.com/embed/WlDWEIEusdY&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=5",
+    "title": "Types of Prankters"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 6,
+  "fields": {
+    "image": "Types_of_Ipl_Fans_6.webp",
+    "url": "https://www.youtube.com/embed/Aom6cjUTgYY&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=6",
+    "title": "Types of Ipl Fans"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 7,
+  "fields": {
+    "image": "Types_of_Cricket_Players_Part_2_7.webp",
+    "url": "https://www.youtube.com/embed/cXEdTqDWy0Q&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=7",
+    "title": "Types of Cricket Players Part 2"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 8,
+  "fields": {
+    "image": "Types_of_Parents_9.webp",
+    "url": "https://www.youtube.com/embed/NKr9BXV7rAI&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=9",
+    "title": "Types of Parents"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 9,
+  "fields": {
+    "image": "Exam_Preparation_10.webp",
+    "url": "https://www.youtube.com/embed/kEbYI1JRAfA&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=10",
+    "title": "Exam Preparation"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 10,
+  "fields": {
+    "image": "World_Then_And_Now_11.webp",
+    "url": "https://www.youtube.com/embed/wI5JzX0w83o&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=11",
+    "title": "World Then And Now"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 11,
+  "fields": {
+    "image": "Corona_Virus_effects_on_Schools_12.webp",
+    "url": "https://www.youtube.com/embed/R4LYOra4hps&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=12",
+    "title": "Corona Virus effects on Schools"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 12,
+  "fields": {
+    "image": "How_People_Spend_Their_Lockdown_13.webp",
+    "url": "https://www.youtube.com/embed/_mVLmxhZPU8&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=13",
+    "title": "How People Spend Their Lockdown"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 13,
+  "fields": {
+    "image": "How_People_Spend_their_Lockdown__Teaser__14.webp",
+    "url": "https://www.youtube.com/embed/vURwEJk74eM&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=14",
+    "title": "How People Spend their Lockdown | Teaser |"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 14,
+  "fields": {
+    "image": "Detective_Gaurav_Part_1__Trailer__15.webp",
+    "url": "https://www.youtube.com/embed/ADIhtCKxv6I&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=15",
+    "title": "Detective Gaurav Part 1 | Trailer |"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 15,
+  "fields": {
+    "image": "Detective_Gaurav_Part_1_16.webp",
+    "url": "https://www.youtube.com/embed/9tNP2oBUV0s&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=16",
+    "title": "Detective Gaurav Part 1"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 16,
+  "fields": {
+    "image": "Detective_Gaurav_Part_2__Trailer__17.webp",
+    "url": "https://www.youtube.com/embed/2ESACVyYv7o&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=17",
+    "title": "Detective Gaurav Part 2 | Trailer |"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 17,
+  "fields": {
+    "image": "Detective_Gaurav_Part_2_18.webp",
+    "url": "https://www.youtube.com/embed/H8Qu3Ta4n8c&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=18",
+    "title": "Detective Gaurav Part 2"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 18,
+  "fields": {
+    "image": "Detective_Gaurav_Part_2__Trailer__19.webp",
+    "url": "https://www.youtube.com/embed/NEcckxc1Km8&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=19",
+    "title": "Detective Gaurav Part 2 | Trailer |"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 19,
+  "fields": {
+    "image": "Detective_Gaurav_Part_3_20.webp",
+    "url": "https://www.youtube.com/embed/UVTfojp6Whk&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=20",
+    "title": "Detective Gaurav Part 3"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 20,
+  "fields": {
+    "image": "How_To_Make_Obstacle_Avoiding_Robot_21.webp",
+    "url": "https://www.youtube.com/embed/r9gV3djoE_c&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=21",
+    "title": "How To Make Obstacle Avoiding Robot"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 21,
+  "fields": {
+    "image": "Kids_In_Quarantine__Teaser__22.webp",
+    "url": "https://www.youtube.com/embed/jWNRADln3ic&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=22",
+    "title": "Kids In Quarantine | Teaser |"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 22,
+  "fields": {
+    "image": "Kids_In_Quarantine_23.webp",
+    "url": "https://www.youtube.com/embed/jWNRADln3ic&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=22",
+    "title": "Kids In Quarantine"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 23,
+  "fields": {
+    "image": "Youtubers_In_Quarantine__Teaser__24.webp",
+    "url": "https://www.youtube.com/embed/iL4nMpGvBo0&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=25",
+    "title": "Youtuber's In Quarantine | Teaser |"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 24,
+  "fields": {
+    "image": "Youtubers_In_Quarantine_25.webp",
+    "url": "https://www.youtube.com/embed/kz-gJALIXx0&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=26",
+    "title": "Youtuber's In Quarantine"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 25,
+  "fields": {
+    "image": "Top_5_Comedy_Videos_From_Detective_Gaurav_Season_1_26.webp",
+    "url": "https://www.youtube.com/embed/qvrnj-h99rA&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=27",
+    "title": "Top 5 Comedy Videos From Detective Gaurav Season 1"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 26,
+  "fields": {
+    "image": "Hollywood_Vs_Bollywood__Part_2__27.webp",
+    "url": "https://www.youtube.com/embed/VR2ZjhMzDWI&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=28",
+    "title": "Hollywood Vs Bollywood | Part 2 |"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 27,
+  "fields": {
+    "image": "Types_of_Reaction_Channels_28.webp",
+    "url": "https://www.youtube.com/embed/oqv1-0l6ZSc&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=31",
+    "title": "Types of Reaction Channels | Teaser |"
+  }
+},
+{
+  "model": "api.video",
+  "pk": 28,
+  "fields": {
+    "image": "Types_of_Reaction_Channels_29.webp",
+    "url": "https://www.youtube.com/embed/2eYJ1RICFHw&list=PLlWBEql9Swdlip6NSvvAE4ak3by0Yzqr5&index=32",
+    "title": "Types of Reaction Channels"
+  }
+}
+]
